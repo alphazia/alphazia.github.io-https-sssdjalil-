@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alphazia.github.io-https-sssdjalil-/static/css/main.5e9a1694.css",
-    "main.js": "/alphazia.github.io-https-sssdjalil-/static/js/main.1b3ef493.js",
+    "main.js": "/alphazia.github.io-https-sssdjalil-/static/js/main.c8307e00.js",
     "static/js/488.6a3449dc.chunk.js": "/alphazia.github.io-https-sssdjalil-/static/js/488.6a3449dc.chunk.js",
     "index.html": "/alphazia.github.io-https-sssdjalil-/index.html",
     "main.5e9a1694.css.map": "/alphazia.github.io-https-sssdjalil-/static/css/main.5e9a1694.css.map",
-    "main.1b3ef493.js.map": "/alphazia.github.io-https-sssdjalil-/static/js/main.1b3ef493.js.map",
+    "main.c8307e00.js.map": "/alphazia.github.io-https-sssdjalil-/static/js/main.c8307e00.js.map",
     "488.6a3449dc.chunk.js.map": "/alphazia.github.io-https-sssdjalil-/static/js/488.6a3449dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e9a1694.css",
-    "static/js/main.1b3ef493.js"
+    "static/js/main.c8307e00.js"
   ]
 }
