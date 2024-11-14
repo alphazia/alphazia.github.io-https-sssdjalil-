@@ -51,7 +51,7 @@ const Content = () => (
             initial={{ opacity: 0, y: -50 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
-            className="text-center mb-4"
+            className="text-center my-4"
           >
             Academic Programs
           </motion.h3>
@@ -126,7 +126,7 @@ const Content = () => (
             initial={{ opacity: 0, y: -50 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
-            className="text-center mb-4"
+            className="text-center mb-4 pt-4"
           >
             Research Opportunities
           </motion.h3>
@@ -159,7 +159,7 @@ const Content = () => (
             initial={{ opacity: 0, y: -50 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
-            className="text-center mb-4"
+            className="text-center mb-4 pt-4"
           >
             Campus Life
           </motion.h3>
@@ -209,7 +209,7 @@ const Content = () => (
             initial={{ opacity: 0, y: -50 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
-            className="text-center mb-4"
+            className="text-center mb-4 pt-4"
           >
             Admissions & Scholarships
           </motion.h3>
